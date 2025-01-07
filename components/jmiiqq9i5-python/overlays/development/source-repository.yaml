@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jmiiqq9i5-python-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/jmiiqq9i5-python
